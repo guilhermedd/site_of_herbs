@@ -11,4 +11,15 @@
  * It is generally better to create a new file per style scope.
  *
  */
-@import "bootstrap";
+
+.paragrafo {
+  font-size: 1.25rem;
+}
+
+.center-card {
+  padding-left: 3rem !important;
+  padding-right: 3rem !important;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  border-radius: 50px;
+}
